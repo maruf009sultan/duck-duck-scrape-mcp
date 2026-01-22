@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "type": "module",
   "dependencies": {
-    "duck-duck-scrape": "^3.3.0"
+    "duck-duck-scrape": "latest"
   },
   "devDependencies": {
     "@types/node": "^20"
