@@ -1,0 +1,11 @@
+{
+  "name": "duckduckgo-mcp-vercel",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "duck-duck-scrape": "^3.3.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20"
+  }
+}
